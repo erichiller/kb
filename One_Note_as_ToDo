@@ -1,0 +1,177 @@
+<one:Page xmlns:one="http://schemas.microsoft.com/office/onenote/2013/onenote" ID="{186F0FF7-AEE2-0CB2-0C39-0074C84CAA45}{1}{E1910167627835070716271938967473523981248501}" name="One Note -as ToDo" dateTime="2016-12-15T18:54:10.000Z" lastModifiedTime="2017-06-10T02:04:22.000Z" pageLevel="1" isCurrentlyViewed="true" selected="partial" lang="en-US">
+  <one:QuickStyleDef index="0" name="PageTitle" fontColor="automatic" highlightColor="automatic" font="Calibri Light" fontSize="20.0" spaceBefore="0.0" spaceAfter="0.0" />
+  <one:QuickStyleDef index="1" name="p" fontColor="automatic" highlightColor="automatic" font="Calibri" fontSize="11.0" spaceBefore="0.0" spaceAfter="0.0" />
+  <one:PageSettings RTL="false" color="automatic">
+    <one:PageSize>
+      <one:Automatic />
+    </one:PageSize>
+    <one:RuleLines visible="false" />
+  </one:PageSettings>
+  <one:Title lang="en-US">
+    <one:OE author="Eric Hiller" authorInitials="EH" lastModifiedBy="Eric Hiller" lastModifiedByInitials="EH" creationTime="2016-12-15T18:54:24.000Z" lastModifiedTime="2016-12-15T18:54:24.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{133}{B0}" alignment="left" quickStyleIndex="0">
+      <one:T><![CDATA[One Note -as ToDo]]></one:T>
+    </one:OE>
+  </one:Title>
+  <one:Outline selected="partial" author="Eric Hiller" authorInitials="EH" lastModifiedBy="Eric Hiller" lastModifiedByInitials="EH" lastModifiedTime="2017-06-10T01:27:13.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{15}{B0}">
+    <one:Position x="36.0" y="104.400001525879" z="0" />
+    <one:Size width="446.4750061035156" height="832.5184936523437" />
+    <one:Indents>
+      <one:Indent level="0" indent="18.0" />
+    </one:Indents>
+    <one:OEChildren selected="partial">
+      <one:OE creationTime="2016-12-15T18:54:51.000Z" lastModifiedTime="2017-06-10T01:27:12.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{16}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[One note [+ markdown export] for knowledge base and ToDo and general notes]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:58:45.000Z" lastModifiedTime="2016-12-15T18:58:45.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{31}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:00:23.000Z" lastModifiedTime="2016-12-15T19:00:23.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{33}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[Vim for general text editing. Open EVERY fine with tmp. Single Directory. Encode file path. Append open date/close date. [Also if no close date I know it's crashed]]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2017-01-02T08:03:26.000Z" lastModifiedTime="2017-01-02T08:03:26.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{35}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2017-01-02T08:04:50.000Z" lastModifiedTime="2017-01-02T08:04:50.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{37}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[Can windows (Cortana) search - search OneNote notebooks? -- if not; use vim for knowledge base. MD renderer for ViM?]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2017-01-02T08:05:21.000Z" lastModifiedTime="2017-01-02T08:05:21.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{39}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[Seperate tmp and kb directories. ]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2017-01-02T08:05:42.000Z" lastModifiedTime="2017-01-02T08:05:42.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{41}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[tmp/ stores every revision of works ]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2017-01-02T08:06:09.000Z" lastModifiedTime="2017-01-02T08:06:09.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{43}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[kb/ is only the most recent *titled* version ]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2017-01-02T08:06:29.000Z" lastModifiedTime="2017-01-02T08:06:29.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{45}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[Remember `*.md.txt`]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2017-01-02T08:07:56.000Z" lastModifiedTime="2017-01-02T08:07:56.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{47}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[`` mklink 'dev/github/project/doc' 'kb/']]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:01:04.000Z" lastModifiedTime="2016-12-15T19:01:04.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{49}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:01:03.000Z" lastModifiedTime="2016-12-15T19:01:03.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{51}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:01:02.000Z" lastModifiedTime="2016-12-15T19:01:02.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{53}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[<a
+href="http://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/">http://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/</a>]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:54:34.000Z" lastModifiedTime="2016-12-15T18:54:34.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{56}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:54:50.000Z" lastModifiedTime="2016-12-15T18:54:50.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{58}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[# linked note option]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:54:26.000Z" lastModifiedTime="2016-12-15T18:54:26.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{60}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[To make sure that this functionality is enabled, click the link icon at the top of the docked OneNote window and browse through Linked Note Options.]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:55:26.000Z" lastModifiedTime="2016-12-15T18:55:26.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{62}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:55:35.000Z" lastModifiedTime="2016-12-15T18:55:35.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{64}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[# dock ToDo window]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:55:38.000Z" lastModifiedTime="2016-12-15T18:55:38.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{66}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[Instead, head to the View tab and see what else is on offer. If your to-do list is restricted to just one page, you can click New Docked Window]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:55:40.000Z" lastModifiedTime="2016-12-15T18:55:40.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{68}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:56:50.000Z" lastModifiedTime="2016-12-15T18:56:50.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{70}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[# one note-&gt;windows calendar task?]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:56:53.000Z" lastModifiedTime="2016-12-15T18:56:53.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{72}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[you can use OneNote to schedule dated entries for time-sensitive tasks via your Windows Calendar.]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:58:09.000Z" lastModifiedTime="2016-12-15T18:58:09.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{74}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[??How??]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:56:56.000Z" lastModifiedTime="2016-12-15T18:56:56.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{76}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:57:49.000Z" lastModifiedTime="2016-12-15T18:57:49.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{78}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[# keyboard shortcuts are awesome]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:57:51.000Z" lastModifiedTime="2016-12-15T18:57:51.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{80}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[Just highlight some text and press Ctrl + 1 to pair it with a checkbox. You can combine this shortcut with some others, too — Ctrl + 2 adds a star, while Ctrl + . starts a bulleted list. Using these three shortcuts in conjunction with one another, it’s quick and easy to set up a detailed checklist for a particular task on the fly.]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:57:56.000Z" lastModifiedTime="2016-12-15T18:57:56.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{82}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T18:57:55.000Z" lastModifiedTime="2016-12-15T18:57:55.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{84}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:06:07.000Z" lastModifiedTime="2016-12-15T19:06:07.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{86}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[----]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:06:08.000Z" lastModifiedTime="2016-12-15T19:06:08.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{88}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:06:10.000Z" lastModifiedTime="2016-12-15T19:06:10.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{90}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[<a
+href="http://www.makeuseof.com/tag/turn-outlook-project-management-tool-onenote-integration/">http://www.makeuseof.com/tag/turn-outlook-project-management-tool-onenote-integration/</a>]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:06:12.000Z" lastModifiedTime="2016-12-15T19:06:12.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{92}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:07:19.000Z" lastModifiedTime="2016-12-15T19:07:19.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{94}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[Create a dedicated 'Task Management' OneNote notebook, every section a project; every page a task. Task data [and even sub-tasks] can be on these pages.]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:07:20.000Z" lastModifiedTime="2016-12-15T19:07:20.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{96}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE creationTime="2016-12-15T19:07:32.000Z" lastModifiedTime="2016-12-15T19:07:32.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{98}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[OneNote plugin in outlook]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-16T19:45:39.000Z" lastModifiedTime="2016-12-16T19:45:39.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{100}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-16T19:45:39.000Z" lastModifiedTime="2016-12-16T19:45:39.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{103}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-16T19:45:40.000Z" lastModifiedTime="2016-12-18T03:13:11.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{105}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[<a
+href="https://support.office.microsoft.com/en-us/article/Create-Outlook-tasks-in-OneNote-19725ff3-0234-495d-9838-fb1f511e924f">https://support.office.microsoft.com/en-us/article/Create-Outlook-tasks-in-OneNote-19725ff3-0234-495d-9838-fb1f511e924f</a>]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:15.000Z" lastModifiedTime="2016-12-18T03:13:15.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{107}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{109}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{111}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{113}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[Create Your To-Do Lists in a Jiffy]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{115}{B0}" alignment="left" quickStyleIndex="1" selected="partial">
+        <one:T selected="all"><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{117}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[That’s how you start your day. An organizer and a diary aren’t complete without a to-do. Here’s how you set up a quick to-do list in OneNote.]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{119}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{121}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[You can start your daily to-do in a new Note page. Select the Home ribbon. Click on ‘To-Do’ in the tag box or use the shortcut key of CTRL+1.]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{123}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{125}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[onenote tips]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{127}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[]]></one:T>
+      </one:OE>
+      <one:OE authorResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" lastModifiedByResolutionID="&lt;resolutionId provider=&quot;Windows Live&quot; hash=&quot;wclre51mJF6Eyc02+1BwSg==&quot;&gt;&lt;localId cid=&quot;a450854c05706861&quot;/&gt;&lt;/resolutionId&gt;" creationTime="2016-12-18T03:13:16.000Z" lastModifiedTime="2016-12-18T03:13:16.000Z" objectID="{C5E35D82-922B-0510-09D9-EA6A904D9850}{129}{B0}" alignment="left" quickStyleIndex="1">
+        <one:T><![CDATA[Type your first to-do item.  Hit Enter and then CTRL+1 to add succeeding items. If you complete your to-do, you can check them off one by one.]]></one:T>
+      </one:OE>
+    </one:OEChildren>
+  </one:Outline>
+</one:Page>
